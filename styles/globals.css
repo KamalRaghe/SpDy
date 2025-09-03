@@ -1,4 +1,6 @@
-
+:root{
+  background-color: #111;
+}
 .center{
   display: flex;
   justify-content: center;
