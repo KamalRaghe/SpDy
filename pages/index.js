@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <>
-      <img src={'/Green.png'} ></img>
+      <img src={'/Spdy.jpeg'} ></img>
     </>
   );
 }
