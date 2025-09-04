@@ -7,11 +7,6 @@
   align-items: center;
 }
 
-.center-abs {
-  position: absolute;   
-  ;
-}
-
 .border{
   border: 1px solid white;
 }
