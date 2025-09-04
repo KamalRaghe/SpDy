@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export default function Home() {
   return (
-    <div className="center" style={{scale:"0.4",height:'100%'}} >
+    <div className="center-abs" style={{scale:"0.4",height:'100%'}} >
       <img className="opening" style={{position:"absolute"}} src={'/Spdy.jpeg'} ></img>
     </div>
 
